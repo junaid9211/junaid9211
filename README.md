@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @junaid9211
-- 👀 I’m interested in Data Science and Machine Learning in Python
-- 🌱 I’m currently learning Tensorflow framework
-
+Mostly .py but sometimes .js
 
 <!---
 junaid9211/junaid9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
